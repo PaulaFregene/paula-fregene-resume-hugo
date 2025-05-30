@@ -1,0 +1,42 @@
+baseURL = "http://localhost:1313"
+languageCode = 'en-us'
+title = 'My Resume'
+theme = 'hugo-resume'
+
+
+[params]
+address = "Dallas, TX and Evanton, IL"
+email = "paulafregene@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Paula"
+lastName = "Fregene"
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edwardwebb/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/edwardawebb"
+    icon = "keybase"
+    
+[[params.handles]]
+    name = "Bluesky"
+    link = "https://bsky.app/profile/webbinaro.dev"
+    icon = "bluesky"
+
+[[params.handles]]
+    link = "https://stackoverflow.com/users/82880/eddie"
+    name = "Stack Overflow"
+    icon = "stack-overflow"
+
