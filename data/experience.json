@@ -1,0 +1,22 @@
+[
+    {
+        "role":"Undergraduate Teaching Assistant",
+        "company":"Northwestern University",
+        "summary":"\n- Assisted in teaching CS 150: Fundamentals of Computer Programming 1.5, providing support to over 100 students in Python programming concepts and problem-solving techniques.\n- Led weekly office hours sessions, guiding students through hands-on coding exercises and debugging processes, resulting in a increase in student performance on assignments.\n- Assisted testing supplementary materials and resources to enhance student understanding of course content, including coding examples and practice problems. \n- Monitored and answered questions on the course discussion board, fostering a collaborative learning environment and addressing student inquiries in a timely manner.",
+        "range":"September 2024 - January 2025"
+    },
+    {
+        "role":"Technology and Operation Intern",
+        "company":"Fiserv",
+        "summary":"\n- Audited 2500+ servers, routers, and data storage drivers in two data centers, improving data accuracy and alignment between physical and online records in database.\n- Streamlined data center operations by managing inventory and ensuring accurate device configurations in DCIM software, enabling precise device visualization for technicians and engineers. Executed optimal troubleshooting methods for resolving device issues.\n- Organized and maintained detailed records of installations, configurations, and maintenance activities using DCIM software and Excel formulas to ensure accurate and accessible data calculations.",
+        "skills":"Skills: Data Center Infrastructure Management (DCIM), Excel, Troubleshooting, Inventory Management, Fiber Optic Networks, Optical Engineering, Information Technology, Data Centers, Auditing, IT Audit, FinTech",
+        "range":"June 2024 - August 2024"
+    },
+    {
+        "role":"Project Manager",
+        "company":"Northwestern Develop + Innovate for Social Change",
+        "summary":"\n- Developed inclusive and accessible website using React and Next.js, conducting user tests to refine design and usability. Resolved cross-browser compatibility issues by leveraging CSS Grid and Flexbox for consistent rendering across devices. (Scheduled to launch in Fall 2024). \n- Researched and compiled resources from web development community to identify Next.js was best for server-side rendering to optimize page load times, enhancing website’s performance across devices, even under slow network conditions. Designed detailed guides and hands-on tutorials to train team members in React, ensuring usage of cutting-edge tools for timely and proficient delivery of client's website project. \n Managed project and contributed as coder, leading additional team meetings and 3 team-building events, boosting productivity by 20% and completing project one week ahead of schedule.",
+        "skills":"Skills: React, Node.js, PostgreSQL, RESTful APIs, Web Development, Software Engineering",
+        "range":"January 2024 - June 2024"
+    }
+]

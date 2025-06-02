@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Feel free to reach me by submitting your infromation and message.&lt;/p&gt;&#xA;&lt;form&#xD;&#xA;  action=&#34;https://formspree.io/f/xjkrverr&#34;&#xD;&#xA;  method=&#34;POST&#34;&#xD;&#xA;&gt;&#xD;&#xA;  &lt;label&gt;&#xD;&#xA;    Your email:&#xD;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &lt;label&gt;&#xD;&#xA;    Your message:&#xD;&#xA;    &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &lt;!-- your other form fields go here --&gt;&#xD;&#xA;  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
   </channel>
 </rss>

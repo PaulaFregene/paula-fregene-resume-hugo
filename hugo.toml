@@ -14,9 +14,10 @@ email = "paulafregene@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Paula"
 lastName = "Fregene"
+profileImage = "img/paula.jpg"
 showContact = true
 showSocializations = true
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","experience","education"]
 
 
 [params.google]
@@ -39,10 +40,10 @@ home = ["HTML", "JSON"]
 [taxonomies]
 tag = "tags"
 
-
-
-
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [caches]
   [caches.images]

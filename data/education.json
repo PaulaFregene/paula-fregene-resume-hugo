@@ -1,0 +1,20 @@
+[
+    {
+        "school":"[Northwestern University](https://www.northwestern.edu/)",
+        "degree":"Bachelor of Art",
+        "major":"Major: Computer Science",
+        "minor":"Minor: Machine Learning and Data Science (MLDS)",
+        "deans":"Dean's List: Winter 2024, Fall 2024, Winter 2025",
+        "notes":"Relevant Coursework: Data Structures & Algorithms, Intro. to Computer Systems, Fundamentals of Computer Programming, Discrete Math for CS Majors, Software Quality Engineering, Software Studio",
+        "clubs":"Extracurricular: (VP of Member Development) Develop + Innovate for Social Change, Women in Computing, Society of Women in Engineering, National Society of Black Engineers, Colorstack, Women in Business, Ignite Christian Fellowship",
+        "range":"2023 - 2027"
+    },
+    {
+        "school":"Tarrant County College",
+        "degree":"Associate of Arts, with High Honors, completed during High School",
+        "gpa":"Cummulative GPA: 3.925",
+        "deans":"Dean's List: Spring 2022, Spring 2023",
+        "notes": "Relevant Coursework: Business Computer Applications, Technical & Business Writing, Principles of Management, Principles of Exports, Public Speaking, Introduction to Sociology",
+        "range":"2021 - 2023"
+    }
+]
