@@ -1,5 +1,5 @@
 title = 'Paula Fregene Resume'
-baseURL = "https://example.com/"
+baseURL = "https://paulafregene.github.io/paula-fregene-resume-hugo/"
 languageCode = 'en-us'
 theme = 'hugo-resume'
 PygmentsCodeFences = true
